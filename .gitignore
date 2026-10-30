@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.xlsx
+*.xls
+*.csv
+*.eml
+*.log
+.env*
+!examples/*.csv
